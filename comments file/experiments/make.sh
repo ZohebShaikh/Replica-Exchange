@@ -1,0 +1,1 @@
+mpicc -o md_start md_start.c
